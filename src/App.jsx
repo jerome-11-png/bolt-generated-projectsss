@@ -2,10 +2,10 @@ import React, { useState } from 'react'
 
 const NAVIGATION_CARDS = [
   { icon: "🔍", title: "DeepFake Detection", url: "https://noumanjavaid-new-space.hf.space" },
-  { icon: "📄", title: "Document Analysis", url: "https://noumanjavaid-centurionv2.hf.space" },
-  { icon: "🎥", title: "Video Watermarking", url: "https://noumanjavaid-watermark-demo-video.hf.space" },
-  { icon: "🔐", title: "Image Authentication", url: "https://noumanjavaid-centii.hf.space" },
-  { icon: "🖼️", title: "Image Comparison", url: "https://another-example.com" }
+  { icon: "📄", title: "Image Comparison Analysis", url: "https://noumanjavaid-centurionv2.hf.space" },
+  { icon: "🎥", title: "Image Watermarking", url: "https://renesistech-watermaking-centurion-final.hf.space" },
+  { icon: "🔐", title: "AI Image Generation", url: "https://noumanjavaid-aidetection-gr.hf.space" },
+  { icon: "🖼️", title: "Document Comparison", url: "https://another-example.com" }
 ]
 
 function App() {
