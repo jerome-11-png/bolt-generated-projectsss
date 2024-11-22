@@ -5,7 +5,7 @@ const NAVIGATION_CARDS = [
   { icon: "📄", title: "Image Comparison Analysis", url: "https://noumanjavaid-centurionv2.hf.space" },
   { icon: "🎥", title: "Image Watermarking", url: "https://renesistech-watermaking-centurion-final.hf.space" },
   { icon: "🔐", title: "AI Image Generation", url: "https://noumanjavaid-aidetection-gr.hf.space" },
-  { icon: "🖼️", title: "Document Comparison", url: "https://another-example.com" }
+  { icon: "🖼️", title: "Document Comparison", url: "https://renesistech-doc-analysis.hf.space" }
 ]
 
 function App() {
